@@ -1,0 +1,6 @@
+name: ZQEx-SkillAPI
+author: Zindev
+version: 0.1
+description: ZQEx-SkillAPI by Zindev
+depend: [ZQuest,SkillAPI]
+main: me.Zindev.zqexskill.Main
